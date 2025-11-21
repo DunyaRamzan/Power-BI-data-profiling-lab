@@ -73,4 +73,3 @@ These are foundational skills for professional analytics projects.
 This Skillable virtual lab gave me practical experience in data preparation and quality assessment within Power BI. It reinforced the importance of understanding and cleaning data before building any dashboards or models an essential step in any real world analytics workflow.
 
 <img width="379" height="236" alt="image" src="https://github.com/user-attachments/assets/00029a63-47f6-4034-97fa-68b1f2199d5d" />
-
